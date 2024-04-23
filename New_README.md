@@ -100,7 +100,7 @@ article_script.sh and paragraph_script.sh
 ## Citation
 
 ```
-Papneja, S., & Pati, S. (Year). Implementing Authentic Counterhate Arguments. GitHub Repository, https://github.com/swabhipapneja/Implementing_Counter-hate_Paragraph
+Papneja, S., & Pati, S. (2024). Implementing Authentic Counterhate Arguments. GitHub Repository, https://github.com/swabhipapneja/Implementing_Counter-hate_Paragraph
 ```
 
 The original research paper:
@@ -118,8 +118,4 @@ The original research paper:
     pages = "13862--13876",
 }
 ```
-
-## Acknowledgments
-
-Special thanks to the authors of the base paper and everyone who has supported this project.
 

@@ -47,10 +47,10 @@ Inorder to re-implement the same, do the following steps:
    ```sh
    python train.py --data-dir {processed_data_path} --level {level} --output-dir {output_path}
    ```
-    Where:
-    processed_data_path: directory of the processed data (default is ./Dataloaders/).
-    level: the level to work on, either paragraph or article levels.
-    output_path: directory to save the trained model (default is ./Output/).
+   Where:
+   processed_data_path: directory of the processed data (default is ./Dataloaders/).
+   level: the level to work on, either paragraph or article levels.
+   output_path: directory to save the trained model (default is ./Output/).
 
    Example for Article:
    ```sh

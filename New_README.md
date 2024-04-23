@@ -29,6 +29,7 @@ Inorder to re-implement the same, do the following steps:
     output_path: directory to save the processed data (default is ./Dataloaders/).
 
    This script is responsible for preparing and pre-processing tweet and article data. It includes functions for cleaning the text data, tokenizing using a transformer model tokenizer (RoBERTa or LongFormer based on the specified level), and creating DataLoader objects for training, validation, and testing.
+   
    Example for Article:
    ```sh
    python prepare_data.py --csv-file ../Data/articles.csv --level article --output-dir ../Dataloaders/
@@ -42,7 +43,7 @@ Inorder to re-implement the same, do the following steps:
       2. valid.pth: DataLoader for the validation set.
       3. test.pth: DataLoader for the test set.
 
-5.  Implement the training loop for a specified number of epochs, evaluate the model on a validation dataset, and records the training and validation statistics for analysis:
+6.  Implement the training loop for a specified number of epochs, evaluate the model on a validation dataset, and records the training and validation statistics for analysis:
    ```sh
    python train.py --data-dir {processed_data_path} --level {level} --output-dir {output_path}
    ```

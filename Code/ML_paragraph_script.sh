@@ -7,7 +7,7 @@ set -e
 #pip install -r requirements.txt
 
 # Prepare the data
-python ML_prepare_data.py --csv-file ../Data/paragraphs_translated_3_Batches.csv --level paragraph --output-dir ../Dataloaders/
+run ML_prepare_data.py --csv-file ../Data/paragraphs_translated_3_Batches.csv --level paragraph --output-dir ../Dataloaders/
 
 # Train the model
 run ML_train.py --data-dir ../Dataloaders/ --level paragraph --output-dir ../Output/

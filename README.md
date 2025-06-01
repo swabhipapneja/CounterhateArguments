@@ -3,7 +3,7 @@ This repository contains a project replicating and extending the EMNLP_23 paper 
 
 This project is part of the "Reproducibility challenges in research papers" and is further documented in our reproducibility study report, which can be accessed [here] (https://github.com/swabhipapneja/CounterhateArguments/blob/main/Counterhate_Arguments_Report.pdf) by Reproducibility: Sweta Pati and Swabhi Papneja.
 
-Implementation Description through Slides: Link to Presentation
+Implementation Description through Slides: [Link to Presentation] (https://www.youtube.com/watch?v=Gicvlw-vAJM)
 
 ## Getting Started
 Follow these steps to set up and run the project:

@@ -100,7 +100,7 @@ paragraph_script.sh – Automates processing, training, and evaluation for parag
   author = {Papneja, S. and Pati, S.},
   title = {Implementing Authentic Counterhate Arguments},
   year = {2024},
-  url = {https://github.com/swetapati22/Counterhate_Arguments},
+  url = {https://github.com/swabhipapneja/CounterhateArguments},
   note = {GitHub Repository}
 }
 ## 📜 Citation

@@ -96,6 +96,7 @@ article_script.sh – Automates processing, training, and evaluation for article
 paragraph_script.sh – Automates processing, training, and evaluation for paragraphs.
 
 ## Our reproducibility work
+```bash
 @misc{papneja_pati_2024,
   author = {Papneja, S. and Pati, S.},
   title = {Implementing Authentic Counterhate Arguments},
@@ -103,8 +104,10 @@ paragraph_script.sh – Automates processing, training, and evaluation for parag
   url = {https://github.com/swabhipapneja/CounterhateArguments},
   note = {GitHub Repository}
 }
+```
 ## 📜 Citation
 🔍 Original Research Paper:
+```bash
 @inproceedings{albanyan-etal-2023-finding,
     title = "Finding Authentic Counterhate Arguments: A Case Study with Public Figures",
     author = "Albanyan, Abdullah  and Hassan, Ahmed  and Blanco, Eduardo",
@@ -117,3 +120,4 @@ paragraph_script.sh – Automates processing, training, and evaluation for parag
     doi = "10.18653/v1/2023.emnlp-main.855",
     pages = "13862--13876",
 }
+```
